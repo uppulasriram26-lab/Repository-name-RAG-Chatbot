@@ -84,19 +84,4 @@ RAG-Chatbot/
 
 **Sriram Uppula**  
 GitHub: https://github.com/uppulasriram26-lab/Repository-name-RAG-Chatbot.git
-Architecture Diagram
-User Query
-   ↓
-Streamlit UI
-   ↓
-LangChain Pipeline
-   ↓
-Text Embeddings (OpenAI / Sentence Transformers)
-   ↓
-Vector DB (ChromaDB)
-   ↓
-Relevant Context Retrieval
-   ↓
-LLM (OpenAI GPT)
-   ↓
-Final Answer
+
