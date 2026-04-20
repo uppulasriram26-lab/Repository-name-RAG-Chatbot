@@ -5,10 +5,10 @@ An end-to-end AI chatbot that allows users to upload documents and ask context-a
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-streamlit-app-link.streamlit.app
+🔗 https://repository-name-rag-chatbot-cwmbqyrohht67qivy53vgz.streamlit.app/
 
 ## 💻 GitHub Repo
-🔗 https://github.com/your-username/RAG-Chatbot
+https://github.com/uppulasriram26-lab/Repository-name-RAG-Chatbot.git
 
 ---
 
